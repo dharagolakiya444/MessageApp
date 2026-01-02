@@ -19,16 +19,10 @@ class SetDefaultSmsActivity : BaseActivity() {
         binding = ActivitySetDefaultSmsBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        // Set title text color and style dynamically if needed
         binding.tvTitle.setTextColor(themeTextColor)
         binding.tvMain.setTextColor(themeTextColor)
-        // You can set subtitle color dynamically as well if you want:
-        // binding.tvSub.setTextColor(someSubtitleColor)
-
-        // Dynamic button bg color (with rounded corners)
         val bgDrawable = binding.btnNext.background as? GradientDrawable
         bgDrawable?.setColor(themePrimaryColor)
-        // Set button text color (optional, for theme contrast)
         binding.btnNext.setTextColor(buttonTextColor)
 
         binding.btnNext.setOnClickListener {

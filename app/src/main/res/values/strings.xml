@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="select_country">Select Country</string>
+    <string name="next">Next</string>
+    <string name="stay_connected_anywhere">Stay Connected Anywhere</string>
+    <string name="chat_across_borders_with_lightning_fast_messages_and_no_limits">Chat across borders with lightning-fast messages and no limits.</string>
+    <string name="all_in_one_messaging_hub">All-in-One Messaging Hub</string>
+    <string name="text_voice_and_emojis_everything_you_need_to_express_yourself_in_one_place">Text, voice, and emojis — everything you need to express yourself in one place.</string>
+    <string name="set_as_default">Set as Default</string>
+    <string name="utilize_advanced_message_function">Utilize Advanced Message Function</string>
+    <string name="make_messages_application_your_default_sms_app">Make Messages Application Your Default SMS App</string>
+    <string name="messages">Messages</string>
+    <string name="please_set_as_default_sms_app_to_proceed">Please set as default SMS app to proceed.</string>
+</resources>
